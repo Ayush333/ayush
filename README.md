@@ -1,2 +1,2 @@
 # ayush
-i know C
+Still learning!!
